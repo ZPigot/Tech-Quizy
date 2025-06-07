@@ -40,5 +40,5 @@ cd tech-quiz-app
   *Open index.html in browser
 
 # Project license
-MIT 
+- Started Code brought to you by © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
